@@ -15,4 +15,4 @@ Then navigate to your desired lecture and enjoy! You can download the .ipynb fil
 
 Enjoy the course and thank you for enrolling!
 
-#This would be the repository for all vanilla python(2&3) learning and tips using jupyter notebook.
+# This would be the repository for all vanilla python(2&3) learning and tips using jupyter notebook.
